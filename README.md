@@ -40,9 +40,12 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Stats-Coming%20Soon-blue?style=for-the-badge" />
-</p>
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=default&no-frame=false&no-bg=false&margin-w=4&column=5)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=dark&no-frame=false&no-bg=false&margin-w=4&column=6)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=radical&no-frame=false&no-bg=false&margin-w=4&column=4)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=3)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=monokai&no-frame=false&no-bg=false&margin-w=4&column=5)
+
 
 
 ---
