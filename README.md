@@ -50,7 +50,6 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ## 📂 Featured Projects
 
-## 📂 Featured Projects
 
 [![Kirsehir Site](https://img.shields.io/badge/Kirsehir_Site-HTML-orange)](https://Onur-Arl.github.io/kirsehir_site/)  
 *Web site introducing Kırşehir and Kaman. Built with HTML & CSS.*  
@@ -60,7 +59,6 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 [![My Projects](https://img.shields.io/badge/My_Projects-Python-green)](https://github.com/Onur-Arl/My-projects)  
 *Contains 3 basic Python projects.*  
-
 
 ---
 
