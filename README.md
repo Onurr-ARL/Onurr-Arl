@@ -38,11 +38,18 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Onur-Arl&theme=dark&column=5&margin-w=4&no-bg=false&no-frame=false&rank=-1&rank-icon=1&hide=unknown)
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Onurr-Arl&theme=dark&column=5&margin-w=4&no-bg=false&no-frame=false&rank=-1&rank-icon=1&hide=unknown)
+---
 
+## 📊 GitHub Stats
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onur-Arl&show_icons=true&theme=dark)
 
+---
+
+## 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Arl&layout=compact&theme=dark)
 
 ---
 
