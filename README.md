@@ -50,11 +50,13 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ## 📂 Featured Projects
 
+[![My Site](https://img.shields.io/badge/My_Site-HTML-red)](https://onurr-arl.github.io/my-site/)  
+*Personal website introducing myself. Built with HTML & CSS.*
 
-[![Kirsehir Site](https://img.shields.io/badge/Kirsehir_Site-HTML-orange)](https://onurr-arl.github.io/kirsehir_site/)  
+[![Kirsehir Site](https://img.shields.io/badge/Kirsehir_Site-HTML-yellow)](https://onurr-arl.github.io/kirsehir_site/index.html)  
 *Web site introducing Kırşehir and Kaman. Built with HTML & CSS.*  
 
-[![Ark-League](https://img.shields.io/badge/Arık_League-HTML-orange)](https://onurr-arl.github.io/Ark-League/)  
+[![Ark-League](https://img.shields.io/badge/Arık_League-HTML-blue)](https://onurr-arl.github.io/Ark-League/)  
 *Football league and fixture generator application. Built with HTML.*  
 
 [![My Projects](https://img.shields.io/badge/My_Projects-Python-green)](https://onurr-arl.github.io/My-projects/)  
