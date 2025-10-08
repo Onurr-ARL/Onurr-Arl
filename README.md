@@ -48,8 +48,17 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ---
 
-## 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Arl&layout=compact&theme=dark)
+## 📂 Featured Projects
+
+[![Kirsehir Site](https://img.shields.io/badge/Kirsehir_Site-HTML-orange)](https://Onur-Arl.github.io/kirsehir_site/)  
+*Kırşehir ve Kaman’ı tanıtan web sitesi. HTML & CSS ile yapılmış.*  
+
+[![Ark-League](https://img.shields.io/badge/Ark-League-Football-blue)](https://github.com/Onur-Arl/Ark-league)  
+*Futbol ligi ve fikstür oluşturucu uygulama. Python tabanlı.*  
+
+[![My Projects](https://img.shields.io/badge/My_Projects-Python-green)](https://github.com/Onur-Arl/My-projects)  
+*Temel 3 adet Python projesini içerir.*  
+
 
 ---
 
