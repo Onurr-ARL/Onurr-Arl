@@ -45,7 +45,7 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 ---
 
 ## 📊 GitHub Stats
-![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onur123&show_icons=true&theme=dark)
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onurr-ARL&show_icons=true&theme=dark)
 
 ---
 
