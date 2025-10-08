@@ -63,6 +63,9 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 [![My Projects](https://img.shields.io/badge/My_Projects-Python-green)](https://onurr-arl.github.io/My-projects/)  
 *Contains 3 basic Python projects.*  
 
+[![University Management](https://img.shields.io/badge/University_Management-SQL-pink)](https://onurr-arl.github.io/university-management.html/)
+*Developing a comprehensive system for managing student information, course registrations, attendance tracking, and academic performance.*
+
 ---
 
 ### 🌍 Contact & Socials
