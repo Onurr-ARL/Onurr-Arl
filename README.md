@@ -40,7 +40,7 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 
 ### 📊 GitHub Stats
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Onur123&theme=dark&column=5&margin-w=4&no-bg=false&no-frame=false&rank=-1&rank-icon=1&hide=unknown)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Onurr-Arl&theme=dark&column=5&margin-w=4&no-bg=false&no-frame=false&rank=-1&rank-icon=1&hide=unknown)
 
 
 
