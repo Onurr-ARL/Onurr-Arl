@@ -53,7 +53,7 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 [![Kirsehir Site](https://img.shields.io/badge/Kirsehir_Site-HTML-orange?logo=html5&logoColor=white)](https://Onur-Arl.github.io/kirsehir_site/)  
 *Web site introducing Kırşehir and Kaman. Built with HTML & CSS.*  
 
-[![Ark-League](https://img.shields.io/badge/Ark-League-HTML-orange?logo=html5&logoColor=white)](https://github.com/Onur-Arl/Ark-league)  
+[![Ark-League](https://img.shields.io/badge/Ark-League-HTML-orange)](https://github.com/Onur-Arl/Ark-league)
 *Football league and fixture generator application. Built with HTML.*  
 
 [![My Projects](https://img.shields.io/badge/My_Projects-Python-green?logo=python&logoColor=white)](https://github.com/Onur-Arl/My-projects)  
