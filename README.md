@@ -66,6 +66,9 @@ I enjoy turning ideas into functional, well-designed digital solutions — learn
 [![University Management](https://img.shields.io/badge/University_Management-SQL-pink)](https://onurr-arl.github.io/university-management.html/)
 *Developing a comprehensive system for managing student information, course registrations, attendance tracking, and academic performance.*
 
+[![Arık Mayfa](https://img.shields.io/badge/Ark-sitee-SQL-pink)](https://onurr-arl.github.io/Ark-sitee/)
+*Mayfia teamup Arık.*
+
 ---
 
 ### 🌍 Contact & Socials
